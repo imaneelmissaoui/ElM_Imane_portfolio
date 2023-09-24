@@ -1,17 +1,17 @@
-Data scientist in healthcare
+# Data scientist in healthcare
 
 
-Education
+### Education
 
 
 
-Work experience
+### Work experience
 Data scientist @ Lille Neurosciences and cognition center 
 
 
-Projects
+### Projects
 
-Certificates 
+### Certificates 
 
 
 
