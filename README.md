@@ -8,6 +8,7 @@
 
 #Work experience
 Data scientist @ Lille Neurosciences and cognition center 
+
 -project 
 
 
