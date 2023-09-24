@@ -1,2 +1,18 @@
 # ElM_Imane_portfolio
-A portfolio of the projects I have done in my data science journey
+#Data scientist in healthcare
+
+
+#Education
+
+
+
+#Work experience
+Data scientist @ Lille Neurosciences and cognition center 
+-project 
+
+
+#Certificates 
+
+
+
+
