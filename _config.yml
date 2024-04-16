@@ -3,7 +3,7 @@
 
 # Site settings
 title: Imane EL Missaoui 
-logo: assets/photocc.jpg
+logo: assets/linkedin_pic (Small).png
 show_downloads: true
 theme: jekyll-theme-minimal
 description: A showcase of your data science projects and skills
@@ -23,11 +23,10 @@ nav:
 # Social media icons
 social:
   - icon: fa-github
-    url: https://github.com/yourusername
+    url: https://github.com/imaneelmissaoui
   - icon: fa-linkedin
-    url: https://www.linkedin.com/in/yourname
-  - icon: fa-twitter
-    url: https://twitter.com/yourusername
+    url: https://www.linkedin.com/in/imane-el-missaoui/
+  
 
 # Custom styles and scripts
 css:
