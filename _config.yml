@@ -1,5 +1,40 @@
+
+
+
+# Site settings
 title: Imane EL Missaoui 
 logo: assets/photocc.jpg
-description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
+description: A showcase of your data science projects and skills
+url: https://yourusername.github.io/
+
+# Navigation
+nav:
+  - text: Home
+    url: /
+  - text: About
+    url: /about/
+  - text: Projects
+    url: /projects/
+  - text: Blog
+    url: /blog/
+
+# Social media icons
+social:
+  - icon: fa-github
+    url: https://github.com/yourusername
+  - icon: fa-linkedin
+    url: https://www.linkedin.com/in/yourname
+  - icon: fa-twitter
+    url: https://twitter.com/yourusername
+
+# Custom styles and scripts
+css:
+  - /assets/css/style.css
+js:
+  - /assets/js/script.js
+
+# Markdown rendering options
+markdown: kramdown
+highlighter: rouge
