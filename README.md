@@ -26,21 +26,20 @@ Data scientist intern @Lille Neurosciences and cognition center
 
 Here are some of the projects I've worked on recently:
 
-#### Project 1: [Uncovering The Topological Features For The Characterisation Of A New Biomarker In Parkinson’s Disease]
+#### Project 1: Uncovering The Topological Features For The Characterisation Of A New Biomarker In Parkinson’s Disease
 
 The objective of this project is to use Topological data analysis to uncover topological features that can help to differentiate the different stages of the Parkinson’s disease progression, but also discriminate between
-parkinsonians and healthy individuals. The identification and analysis of these topological features have the potential to characterize a new biomarker that can help in patient prognosis and stratification to improve patient’s selection in clinical trials. You can view the code and analysis for this project in the [https://github.com/imaneelmissaoui/Internship-neurodatascience].
+parkinsonians and healthy individuals. The identification and analysis of these topological features have the potential to characterize a new biomarker that can help in patient prognosis and stratification to improve patient’s selection in clinical trials. You can view the code and analysis for this project in the https://github.com/imaneelmissaoui/Internship-neurodatascience.
 
-#### Project 2: [Investigating Maternal Inflammation During Pregnancy and its Association with Autism Spectrum Disorder in Offspring ]
-
+#### Project 2: Investigating Maternal Inflammation During Pregnancy and its Association with Autism Spectrum Disorder in Offspring 
 Our goal is to create a Knowledge graph using large language models, connecting key aspects from various fields like epidemiology, immunology, and neurobiology, that breaks down the complex
 relationship between maternal inflammation and its impact on neurodevelopment by identifying the molecular connections, uncovering causal pathways, and shedding light on possible interventions.
-You can view the code and analysis for this project in the [https://github.com/imaneelmissaoui/LLMs_and_KGs].
+You can view the code and analysis for this project in the https://github.com/imaneelmissaoui/LLMs_and_KGs.
 
-#### Project 3: [Polyps Classification and Database design and construction to help diagnose earlier necessary interventions] 
+#### Project 3: Polyps Classification and Database design and construction to help diagnose earlier necessary interventions
 
 
-#### Project 4: [Dashboard construction using Dash in python]
+#### Project 4: Dashboard construction using Dash in python
 
 
 ### Skills
@@ -63,7 +62,7 @@ Data Analysis With Python            IBM   2022
 
 ## Contact
 
-If you'd like to learn more about my work or discuss a potential collaboration, please feel free to contact me at imaneelmissaoui23@gmail.com or connect with me on [https://www.linkedin.com/in/imane-el-missaoui/].
+If you'd like to learn more about my work or discuss a potential collaboration, please feel free to contact me at imaneelmissaoui23@gmail.com or connect with me on https://www.linkedin.com/in/imane-el-missaoui/.
 
 Thanks for visiting my portfolio!
 
