@@ -2,7 +2,7 @@
 
 Welcome to my data science portfolio! Here you'll find a collection of projects and analyses that showcase my skills and experience in data science, machine learning, and statistical analysis.
 
-## About Me
+## About Me 
 
 I'm a data scientist with a passion for using data to solve real-world problems. I have experience working with a variety of data sources and tools, including Python, R, SQL. 
 I am passionate about data science and eager to continue learning and growing in this field.
