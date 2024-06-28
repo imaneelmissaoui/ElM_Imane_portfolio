@@ -55,8 +55,11 @@ Here are some of the skills I have experience with:
 #### Certificates 
 
 Datascientist Associate Certificate  Datacamp 2024
+
 R programming                        JOHNS HOPKINS UNIVERSITY 2022
+
 Python for Data science              IBM   2022 
+
 Data Analysis With Python            IBM   2022
 
 
